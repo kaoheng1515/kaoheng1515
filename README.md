@@ -64,25 +64,15 @@ Currently learning more about **network automation monitoring and cloud networki
 ### Networking Vendors
 <!-- ===================== Networking Vendors ===================== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mikrotik&theme=dark" height="40" width="40" alt="MikroTik" class="tech-icon"/>
-  <img src="https://skillicons.dev/icons?i=cisco&theme=dark" height="40" width="40" alt="Cisco" class="tech-icon"/>
-  <img src="https://skillicons.dev/icons?i=huawei&theme=dark" height="40" width="40" alt="Huawei" class="tech-icon"/>
-  <img src="https://skillicons.dev/icons?i=ruijie&theme=dark" height="40" width="40" alt="Ruijie" class="tech-icon"/>
-  <img src="https://skillicons.dev/icons?i=tplink&theme=dark" height="40" width="40" alt="TP-Link" class="tech-icon"/>
-  <img src="https://skillicons.dev/icons?i=tenda&theme=dark" height="40" width="40" alt="Tenda" class="tech-icon"/>
-  <img src="https://skillicons.dev/icons?i=unifi&theme=dark" height="40" width="40" alt="UniFi" class="tech-icon"/>
+  <img src="https://skillicons.dev/icons?i=mikrotik&theme=dark" height="40" width="40" alt="MikroTik"/>
+  <img src="https://skillicons.dev/icons?i=cisco&theme=dark" height="40" width="40" alt="Cisco"/>
+  <img src="https://skillicons.dev/icons?i=huawei&theme=dark" height="40" width="40" alt="Huawei"/>
+  <img src="https://skillicons.dev/icons?i=ruijie&theme=dark" height="40" width="40" alt="Ruijie"/>
+  <img src="https://skillicons.dev/icons?i=tplink&theme=dark" height="40" width="40" alt="TP-Link"/>
+  <img src="https://skillicons.dev/icons?i=tenda&theme=dark" height="40" width="40" alt="Tenda"/>
+  <img src="https://skillicons.dev/icons?i=unifi&theme=dark" height="40" width="40" alt="UniFi"/>
 </p>
 
-<style>
-.tech-icon {
-  filter: drop-shadow(0 0 5px #00F7FF);
-  transition: all 0.3s ease;
-}
-.tech-icon:hover {
-  filter: drop-shadow(0 0 20px #00F7FF);
-  transform: scale(1.3);
-}
-</style>
 
 ### OS & Server
 <p align="center">
