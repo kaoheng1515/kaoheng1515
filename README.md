@@ -121,8 +121,8 @@ Currently learning more about **network automation monitoring and cloud networki
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Zabbix_logo.png" height="40" alt="Zabbix"/>
   <img src="https://raw.githubusercontent.com/Cacti/cacti/master/docs/images/cacti-logo.png" height="40" alt="Cacti"/>
-  <img src="https://github.com/louislam/uptime-kuma/raw/master/public/images/logo.png" height="40" alt="Uptime Kuma"/>
-  <img src="https://wiki.openweathermap.org/images/6/6d/Network_Weathermap.png" height="40" alt="Weathermap"/>
+  <img src="https://raw.githubusercontent.com/louislam/uptime-kuma/master/public/images/logo.png" height="40" alt="Uptime Kuma"/>
+  <img src="https://raw.githubusercontent.com/openshift/openshift-origin/master/examples/openshift-weathermap/images/weathermap.png" height="40" alt="Weathermap"/>
 </p>
 
 <!-- ===================== Core Expertise ===================== -->
