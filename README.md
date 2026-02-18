@@ -119,7 +119,7 @@ Currently learning more about **network automation monitoring and cloud networki
 
 ### Monitoring
 <p align="center">
-  <img src="https://img.shields.io/badge/Zabbix-1E1E1E?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+  <img src="https://raw.githubusercontent.com/zabbix/zabbix/master/assets/images/logo/zabbix_logo.png" height="40"/>
   <img src="https://img.shields.io/badge/Cacti-007BFF?style=for-the-badge&logo=cacti&logoColor=white" alt="Cacti"/>
   <img src="https://img.shields.io/badge/Uptime Kuma-FF7F50?style=for-the-badge" alt="Uptime Kuma"/>
   <img src="https://img.shields.io/badge/Weathermap-00CED1?style=for-the-badge" alt="Weathermap"/>
