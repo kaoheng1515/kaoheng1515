@@ -64,16 +64,14 @@ Currently learning more about **network automation monitoring and cloud networki
 ### Networking Vendors
 <!-- ===================== Networking Vendors ===================== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mikrotik&theme=dark" height="40" width="40" alt="MikroTik"/>
-  <img src="https://skillicons.dev/icons?i=cisco&theme=dark" height="40" width="40" alt="Cisco"/>
-  <img src="https://skillicons.dev/icons?i=huawei&theme=dark" height="40" width="40" alt="Huawei"/>
-  <img src="https://skillicons.dev/icons?i=ruijie&theme=dark" height="40" width="40" alt="Ruijie"/>
-  <img src="https://skillicons.dev/icons?i=tplink&theme=dark" height="40" width="40" alt="TP-Link"/>
-  <img src="https://skillicons.dev/icons?i=tenda&theme=dark" height="40" width="40" alt="Tenda"/>
-  <img src="https://skillicons.dev/icons?i=unifi&theme=dark" height="40" width="40" alt="UniFi"/>
+  <img src="https://img.shields.io/badge/MikroTik-00F7FF?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/>
+  <img src="https://img.shields.io/badge/Cisco-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Huawei-FF1493?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei"/>
+  <img src="https://img.shields.io/badge/Ruijie-00FFFF?style=for-the-badge&logo=ruijie&logoColor=white" alt="Ruijie"/>
+  <img src="https://img.shields.io/badge/TP-Link-7CFC00?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link"/>
+  <img src="https://img.shields.io/badge/Tenda-FFD700?style=for-the-badge&logo=tenda&logoColor=white" alt="Tenda"/>
+  <img src="https://img.shields.io/badge/UniFi-8A2BE2?style=for-the-badge&logo=unifi&logoColor=white" alt="UniFi"/>
 </p>
-
-
 ### OS & Server
 <p align="center">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
