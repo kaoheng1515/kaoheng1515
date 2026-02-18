@@ -24,7 +24,7 @@
 
 <!-- ===================== Visitor Counter ===================== -->
 ![GitHub](https://img.shields.io/github/license/kaoheng1515/AboutMe?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/kaoheng1515?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/kaoheng1515/kaoheng1515?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/kaoheng1515/AboutMe.svg?cache=remove)
 
 <!-- ===================== About Me ===================== -->
