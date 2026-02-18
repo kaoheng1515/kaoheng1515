@@ -48,6 +48,16 @@ Currently learning more about **network automation monitoring and cloud networki
 
 ---
 
+<!-- ===================== Languages ===================== -->
+## 🗣️ Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Khmer-100%25-brightgreen?style=for-the-badge" alt="Khmer Proficiency" />
+  <img src="https://img.shields.io/badge/English-40%25-blue?style=for-the-badge" alt="English Proficiency" />
+  <img src="https://img.shields.io/badge/Chinese-40%25-red?style=for-the-badge" alt="Chinese Proficiency" />
+</p>
+
+---
+
 <!-- ===================== Technical Stack ===================== -->
 ## 🛠️ Technical Stack
 <p align="center">
