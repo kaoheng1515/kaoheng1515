@@ -68,7 +68,7 @@ Currently learning more about **network automation monitoring and cloud networki
 <!-- ===================== Technical Stack ===================== -->
 ## 🛠️ Technical Stack
 
-### Networking Vendors
+### Network
 <p align="center">
   <img src="https://img.shields.io/badge/MikroTik-00F7FF?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/>
   <img src="https://img.shields.io/badge/Cisco-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
@@ -117,7 +117,7 @@ Currently learning more about **network automation monitoring and cloud networki
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
 
-### Security / VPN / Bot
+### Security
 <p align="center">
   <img src="https://img.shields.io/badge/Firewall-FF0000?style=for-the-badge" alt="Firewall"/>
   <img src="https://img.shields.io/badge/VPN-00FFCC?style=for-the-badge" alt="VPN"/>
@@ -128,8 +128,6 @@ Currently learning more about **network automation monitoring and cloud networki
 <p align="center">
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
   <img src="https://img.shields.io/badge/Cacti-43A047?style=for-the-badge&logo=cacti&logoColor=white" alt="Cacti"/>
-  <img src="https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=for-the-badge" alt="Uptime Kuma"/>
-  <img src="https://img.shields.io/badge/Weathermap-00CED1?style=for-the-badge" alt="Weathermap"/>
 </p>
 
 <!-- ===================== Core Expertise ===================== -->
