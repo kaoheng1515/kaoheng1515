@@ -119,10 +119,10 @@ Currently learning more about **network automation monitoring and cloud networki
 
 ### Monitoring
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Zabbix_logo.png" height="40" alt="Zabbix"/>
-  <img src="https://raw.githubusercontent.com/Cacti/cacti/master/docs/images/cacti-logo.png" height="40" alt="Cacti"/>
-  <img src="https://raw.githubusercontent.com/louislam/uptime-kuma/master/public/images/logo.png" height="40" alt="Uptime Kuma"/>
-  <img src="https://raw.githubusercontent.com/openshift/openshift-origin/master/examples/openshift-weathermap/images/weathermap.png" height="40" alt="Weathermap"/>
+  <img src="assets/logos/zabbix.svg" height="40"/>
+  <img src="assets/logos/cacti.svg" height="40"/>
+  <img src="assets/logos/uptimekuma.svg" height="40"/>
+  <img src="assets/logos/weathermap.svg" height="40"/>
 </p>
 
 <!-- ===================== Core Expertise ===================== -->
