@@ -36,6 +36,13 @@ Experienced in **MikroTik Cisco Huawei OLT/FTTx deployments Ruijie Cloud UniFi V
 I enjoy building **stable secure and scalable network environments**.  
 Currently learning more about **network automation monitoring and cloud networking**.
 
+- 🔧 **5+ Years** in Network Infrastructure & Operations  
+- 🌐 Enterprise Network Design & VLAN Architecture  
+- 🐳 Docker Deployment & Linux Server Administration  
+- 📊 Monitoring Systems & Alert Automation  
+- 🤖 Telegram Bot & Infrastructure Automation  
+- 🔐 Firewall Configuration, VPN Deployment & Security Hardening  
+
 ---
 
 <!-- ===================== Certifications ===================== -->
