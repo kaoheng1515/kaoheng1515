@@ -62,7 +62,6 @@ Currently learning more about **network automation monitoring and cloud networki
 ## 🛠️ Technical Stack
 
 ### Networking Vendors
-<!-- ===================== Networking Vendors ===================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/MikroTik-00F7FF?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/>
   <img src="https://img.shields.io/badge/Cisco-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
@@ -72,49 +71,59 @@ Currently learning more about **network automation monitoring and cloud networki
   <img src="https://img.shields.io/badge/Tenda-FFD700?style=for-the-badge&logo=tenda&logoColor=white" alt="Tenda"/>
   <img src="https://img.shields.io/badge/UniFi-8A2BE2?style=for-the-badge&logo=unifi&logoColor=white" alt="UniFi"/>
 </p>
+
 ### OS & Server
 <p align="center">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-<img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali&logoColor=white" alt="Kali"/>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-<img src="https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Cloud-0ABAB5?style=for-the-badge" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Cloud-0ABAB5?style=for-the-badge" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 </p>
 
 ### Web & Programming
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
 </p>
 
 ### Server & DB
 <p align="center">
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-<img src="https://img.shields.io/badge/Apache-FC6B03?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Apache-FC6B03?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ### Frameworks
 <p align="center">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
 
 ### Security / VPN / Bot
 <p align="center">
-<img src="https://img.shields.io/badge/Firewall-FF0000?style=for-the-badge" alt="Firewall"/>
-<img src="https://img.shields.io/badge/VPN-00FFCC?style=for-the-badge" alt="VPN"/>
-<img src="https://skillicons.dev/icons?i=bot&theme=dark" height="40" width="40" alt="Bot"/>
-</p>>
----
+  <img src="https://img.shields.io/badge/Firewall-FF0000?style=for-the-badge" alt="Firewall"/>
+  <img src="https://img.shields.io/badge/VPN-00FFCC?style=for-the-badge" alt="VPN"/>
+  <img src="https://img.shields.io/badge/Bot-6E6EFD?style=for-the-badge" alt="Bot Script"/>
+</p>
 
+### Monitoring
+<p align="center">
+  <img src="https://img.shields.io/badge/Zabbix-1E1E1E?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Cacti-007BFF?style=for-the-badge&logo=cacti&logoColor=white" alt="Cacti"/>
+  <img src="https://img.shields.io/badge/Uptime Kuma-FF7F50?style=for-the-badge" alt="Uptime Kuma"/>
+  <img src="https://img.shields.io/badge/Weathermap-00CED1?style=for-the-badge" alt="Weathermap"/>
+</p>
 <!-- ===================== Core Expertise ===================== -->
 ## 🌐 Core Expertise
 
