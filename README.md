@@ -23,9 +23,7 @@
 </h1>
 
 <!-- ===================== Visitor Counter ===================== -->
-![Stars](https://img.shields.io/github/stars/kaoheng1515/AboutMe?style=flat)
 ![Profile Views](https://komarev.com/ghpvc/?username=kaoheng1515&style=flat)
-![Top Language](https://img.shields.io/github/languages/top/kaoheng1515/AboutMe?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kaoheng1515/kaoheng1515?branch=main&style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/kaoheng1515/AboutMe.svg?cache=remove)
 
