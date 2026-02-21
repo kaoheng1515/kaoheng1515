@@ -23,7 +23,10 @@
 </h1>
 
 <!-- ===================== Visitor Counter ===================== -->
-![GitHub](https://img.shields.io/github/license/kaoheng1515/AboutMe?style=flat)
+![Stars](https://img.shields.io/github/stars/kaoheng1515/AboutMe?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/kaoheng1515/AboutMe?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/kaoheng1515/AboutMe?style=for-the-badge)
+![License](https://img.shields.io/github/license/kaoheng1515/AboutMe?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kaoheng1515/kaoheng1515?branch=main&style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/kaoheng1515/AboutMe.svg?cache=remove)
 
